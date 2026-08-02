@@ -76,13 +76,13 @@ function SideBar() {
                         </ListItemButton>
                         <Collapse sx={{ width: 'stretch' }} in={openDropdowns1[index]} unmountOnExit>
                             <List component="div" disablePadding>
-                                <ListItemButton sx={{ pl: 4, width: '100%' }} to="/#/module-1-lesson-1">
+                                <ListItemButton sx={{ pl: 4, width: '100%' }} to="/cs6460-ai-course/#/module-1-lesson-1">
                                 <ListItemText primary="Lesson 1.1: Welcome to the Course" />
                                 </ListItemButton>
-                                <ListItemButton sx={{ pl: 4, width: 'stretch' }} to="/#/module-1-lesson-2">
+                                <ListItemButton sx={{ pl: 4, width: 'stretch' }} to="/cs6460-ai-course/#/module-1-lesson-2">
                                 <ListItemText primary="Lesson 1.2: GenAI In Real Life" />
                                 </ListItemButton>
-                                <ListItemButton sx={{ pl: 4, width: 'stretch' }} to="/#/module-1-lesson-3">
+                                <ListItemButton sx={{ pl: 4, width: 'stretch' }} to="/cs6460-ai-course/#/module-1-lesson-3">
                                 <ListItemText primary="Lesson 1.3: Why These Tools Are So Popular" />
                                 </ListItemButton>
                             </List>
@@ -100,13 +100,13 @@ function SideBar() {
                         </ListItemButton>
                         <Collapse sx={{ width: 'stretch' }} in={openDropdowns2[index]} unmountOnExit>
                             <List component="div" disablePadding>
-                                <ListItemButton sx={{ pl: 4, width: '100%' }} to="/#/module-2-lesson-1">
+                                <ListItemButton sx={{ pl: 4, width: '100%' }} to="/cs6460-ai-course/#/module-2-lesson-1">
                                 <ListItemText primary="Lesson 2.1: GenAI's Design" />
                                 </ListItemButton>
-                                <ListItemButton sx={{ pl: 4, width: 'stretch' }} to="/#/module-2-lesson-2">
+                                <ListItemButton sx={{ pl: 4, width: 'stretch' }} to="/cs6460-ai-course/#/module-2-lesson-2">
                                 <ListItemText primary="Lesson 2.2: Emotional Attachments" />
                                 </ListItemButton>
-                                <ListItemButton sx={{ pl: 4, width: 'stretch' }} to="/#/module-2-lesson-3">
+                                <ListItemButton sx={{ pl: 4, width: 'stretch' }} to="/cs6460-ai-course/#/module-2-lesson-3">
                                 <ListItemText primary="Lesson 2.3: Trusting GenAI" />
                                 </ListItemButton>
                             </List>
@@ -124,16 +124,16 @@ function SideBar() {
                         </ListItemButton>
                         <Collapse sx={{ width: 'stretch' }} in={openDropdowns3[index]} unmountOnExit>
                             <List component="div" disablePadding>
-                                <ListItemButton sx={{ pl: 4, width: '100%' }} to="/#/module-3-lesson-1">
+                                <ListItemButton sx={{ pl: 4, width: '100%' }} to="/cs6460-ai-course/#/module-3-lesson-1">
                                 <ListItemText primary="Lesson 3.1A: Ethical Pitfalls Part 1" />
                                 </ListItemButton>
-                                <ListItemButton sx={{ pl: 4, width: 'stretch' }} to="/#/module-3-lesson-2">
+                                <ListItemButton sx={{ pl: 4, width: 'stretch' }} to="/cs6460-ai-course/#/module-3-lesson-2">
                                 <ListItemText primary="Lesson 3.1B: Ethical Pitfalls Part 2" />
                                 </ListItemButton>
-                                <ListItemButton sx={{ pl: 4, width: 'stretch' }} to="/#/module-3-lesson-3">
+                                <ListItemButton sx={{ pl: 4, width: 'stretch' }} to="/cs6460-ai-course/#/module-3-lesson-3">
                                 <ListItemText primary="Lesson 3.2: Emotional Pitfalls" />
                                 </ListItemButton>
-                                <ListItemButton sx={{ pl: 4, width: 'stretch' }} to="/#/module-3-lesson-4">
+                                <ListItemButton sx={{ pl: 4, width: 'stretch' }} to="/cs6460-ai-course/#/module-3-lesson-4">
                                 <ListItemText primary="Lesson 3.3: Cognitive Pitfalls" />
                                 </ListItemButton>
                             </List>
@@ -151,13 +151,13 @@ function SideBar() {
                         </ListItemButton>
                         <Collapse sx={{ width: 'stretch' }} in={openDropdowns4[index]} unmountOnExit>
                             <List component="div" disablePadding>
-                                <ListItemButton sx={{ pl: 4, width: '100%' }} to="/#/module-4-lesson-1">
+                                <ListItemButton sx={{ pl: 4, width: '100%' }} to="/cs6460-ai-course/#/module-4-lesson-1">
                                 <ListItemText primary="Lesson 4.1: Research Solutions" />
                                 </ListItemButton>
-                                <ListItemButton sx={{ pl: 4, width: 'stretch' }} to="/#/module-4-lesson-2">
+                                <ListItemButton sx={{ pl: 4, width: 'stretch' }} to="/cs6460-ai-course/#/module-4-lesson-2">
                                 <ListItemText primary="Lesson 4.2: Infrastructural Solutions" />
                                 </ListItemButton>
-                                <ListItemButton sx={{ pl: 4, width: 'stretch' }} to="/#/module-4-lesson-3">
+                                <ListItemButton sx={{ pl: 4, width: 'stretch' }} to="/cs6460-ai-course/#/module-4-lesson-3">
                                 <ListItemText primary="Lesson 4.3: Independent Solutions" />
                                 </ListItemButton>
                             </List>
