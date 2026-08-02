@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/cs6460-ai-course/static/css/main.f7110ca4.css",
-    "main.js": "/cs6460-ai-course/static/js/main.930f94b7.js",
+    "main.js": "/cs6460-ai-course/static/js/main.c8252aa8.js",
     "static/js/453.7e39f57d.chunk.js": "/cs6460-ai-course/static/js/453.7e39f57d.chunk.js",
     "static/media/roboto-latin-700-normal.woff2": "/cs6460-ai-course/static/media/roboto-latin-700-normal.d89b03c583b9adb99987.woff2",
     "static/media/roboto-latin-500-normal.woff2": "/cs6460-ai-course/static/media/roboto-latin-500-normal.1c7e8aa0ba84e4f92e5f.woff2",
@@ -77,11 +77,11 @@
     "static/media/roboto-greek-ext-300-normal.woff": "/cs6460-ai-course/static/media/roboto-greek-ext-300-normal.16a128726559c34950e0.woff",
     "index.html": "/cs6460-ai-course/index.html",
     "main.f7110ca4.css.map": "/cs6460-ai-course/static/css/main.f7110ca4.css.map",
-    "main.930f94b7.js.map": "/cs6460-ai-course/static/js/main.930f94b7.js.map",
+    "main.c8252aa8.js.map": "/cs6460-ai-course/static/js/main.c8252aa8.js.map",
     "453.7e39f57d.chunk.js.map": "/cs6460-ai-course/static/js/453.7e39f57d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f7110ca4.css",
-    "static/js/main.930f94b7.js"
+    "static/js/main.c8252aa8.js"
   ]
 }
