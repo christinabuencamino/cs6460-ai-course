@@ -1,0 +1,21 @@
+{
+  "question": "What is an example of a positive way an adolescent can use AI?",
+  "answers": [
+    {
+      "isCorrect": false,
+      "answer": "To talk to them about a fight they had with their parents"
+    },
+    {
+      "isCorrect": true,
+      "answer": "To help guide them through a hard math concept they are learning about"
+    },
+    {
+      "isCorrect": false,
+      "answer": "To vent about school"
+    },
+    {
+      "isCorrect": true,
+      "answer": "To ask it about its opinion on some of their beliefs"
+    }
+  ]
+}

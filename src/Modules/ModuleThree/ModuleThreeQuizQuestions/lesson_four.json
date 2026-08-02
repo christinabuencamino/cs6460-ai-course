@@ -1,0 +1,21 @@
+{
+  "question": "What is a potential side effect of overuse of AI with students?",
+  "answers": [
+    {
+      "isCorrect": false,
+      "answer": "Higher self esteem"
+    },
+    {
+      "isCorrect": false,
+      "answer": "Decreased typing speed"
+    },
+    {
+      "isCorrect": true,
+      "answer": "Overconfidence in their skills"
+    },
+    {
+      "isCorrect": false,
+      "answer": "Higher grades"
+    }
+  ]
+}

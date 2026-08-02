@@ -1,0 +1,107 @@
+{
+  "1": {
+    "question": "A student solely relies on ChatGPT to research a topic for an essay. When they get their paper back, the feedback shows that while everything written was correct, they missed some key aspects of the topic, resulting in a lower than expected grade. Why may this be?",
+    "answers": [
+      {
+        "isCorrect": false,
+        "answer": "ChatGPT did not have the full context."
+      },
+      {
+        "isCorrect": false,
+        "answer": "The student did not use ChatGPT properly."
+      },
+      {
+        "isCorrect": true,
+        "answer": "ChatGPT’s outputs are not guaranteed to be comprehensive, even if the information delivered is correct."
+      },
+      {
+        "isCorrect": false,
+        "answer": "The student engaged in a feedback loop with ChatGPT."
+      }
+    ]
+  },
+  "2": {
+    "question": "A child uses ChatGPT to generate some images from their imagination. When they ask it to generate a picture of a doctor, over the course of a few iterations, the picture always depicts an older man as the doctor. What can this be an indicator of?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "answer": "Biased training data."
+      },
+      {
+        "isCorrect": false,
+        "answer": "Poor understanding of the world."
+      },
+      {
+        "isCorrect": false,
+        "answer": "Low quality prompts from the child."
+      },
+      {
+        "isCorrect": false,
+        "answer": "Hallucination"
+      }
+    ]
+  },
+  "3": {
+    "question": "True or false: hallucinations only occur when a user does not properly prompt a generative AI tool.",
+    "answers": [
+      {
+        "isCorrect": false,
+        "answer": "True – prompting is a key skill to avoiding hallucination."
+      },
+      {
+        "isCorrect": false,
+        "answer": "True – AI tools do not output wrong information."
+      },
+      {
+        "isCorrect": false,
+        "answer": "False – it depends on the chatbot being used."
+      },
+      {
+        "isCorrect": true,
+        "answer": "False – hallucinations can happen at any time, with any model, with any prompt."
+      }
+    ]
+  },
+  "4": {
+    "question": "A parent approves AI use for their child only if the agent has explicit guardrails in place to stop negative interactions from occurring. Is this guaranteed to keep their child from harmful outcomes?",
+    "answers": [
+      {
+        "isCorrect": false,
+        "answer": "Yes – AI governance is beginning to catch up with AI models."
+      },
+      {
+        "isCorrect": false,
+        "answer": "Yes – Once guardrails are in place, AI models are safe to use."
+      },
+      {
+        "isCorrect": true,
+        "answer": "No – users have demonstrated with multiple models that it is possible to get around guardrails, so it can never be guaranteed that harm is not possible."
+      },
+      {
+        "isCorrect": false,
+        "answer": "No – it has been shown that even a model glitching can cause negative emotions in children, which cannot be stopped by a guardrail."
+      }
+    ]
+  },
+  "5": {
+    "question": "What is “AI guilt”?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "answer": "Where users feel anxiety regarding their AI usage in comparison to the known and believed cons of using AI tools."
+      },
+      {
+        "isCorrect": false,
+        "answer": "Where users feel guilty for using one model over another."
+      },
+      {
+        "isCorrect": false,
+        "answer": "Where users feel anxiety due to experiencing feedback loops and hallucinations."
+      },
+      {
+        "isCorrect": false,
+        "answer": "Where users feel guilty due to the model guilt-tripping them."
+      }
+    ]
+  }
+}

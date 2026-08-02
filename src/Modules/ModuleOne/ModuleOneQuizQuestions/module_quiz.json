@@ -1,0 +1,107 @@
+{
+  "1": {
+    "question": "What is one reason that generative AI is unique to other AI tools?",
+    "answers": [
+      {
+        "isCorrect": false,
+        "answer": "It speaks in natural language"
+      },
+      {
+        "isCorrect": true,
+        "answer": "It can create original content"
+      },
+      {
+        "isCorrect": false,
+        "answer": "It is trained on data"
+      },
+      {
+        "isCorrect": false,
+        "answer": "It is popular"
+      }
+    ]
+  },
+  "2": {
+    "question": "A malicious actor uses generative AI to generate an audio clip that sounds like another person, so they may use it to access someone’s personal records when prompted to use voice identification. What is this an example of?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "answer": "Deepfake"
+      },
+      {
+        "isCorrect": false,
+        "answer": "Hallucination"
+      },
+      {
+        "isCorrect": false,
+        "answer": "Adaptation"
+      },
+      {
+        "isCorrect": false,
+        "answer": "Output"
+      }
+    ]
+  },
+  "3": {
+    "question": "A child tells their parents that they have been talking with their favorite Sesame Street character Elmo online. What is the best possible explanation for this, in the context of the learning materials?",
+    "answers": [
+      {
+        "isCorrect": false,
+        "answer": "The child is imagining these conversations."
+      },
+      {
+        "isCorrect": false,
+        "answer": "The child is talking to a picture of Elmo."
+      },
+      {
+        "isCorrect": true,
+        "answer": "The child is using an online chatbot that uses Elmo’s picture and speaking cadence."
+      },
+      {
+        "isCorrect": false,
+        "answer": "The child is watching clips of Sesame Street online."
+      }
+    ]
+  },
+  "4": {
+    "question": "An adolescent’s parents ban use of generative AI at home. What is a realistic environment where they may gain access to generative AI outside of the house?",
+    "answers": [
+      {
+        "isCorrect": false,
+        "answer": "At the store"
+      },
+      {
+        "isCorrect": true,
+        "answer": "At school"
+      },
+      {
+        "isCorrect": false,
+        "answer": "At the park"
+      },
+      {
+        "isCorrect": false,
+        "answer": "At the gym"
+      }
+    ]
+  },
+  "5": {
+    "question": "Why is it important for adults who are caregivers of children or adolescents to build AI literacy?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "answer": "To inform their actions and decisions when handling their children using generative AI."
+      },
+      {
+        "isCorrect": false,
+        "answer": "To make them smarter."
+      },
+      {
+        "isCorrect": false,
+        "answer": "To learn a new skill."
+      },
+      {
+        "isCorrect": false,
+        "answer": "To teach their children all of the information in this course."
+      }
+    ]
+  }
+}

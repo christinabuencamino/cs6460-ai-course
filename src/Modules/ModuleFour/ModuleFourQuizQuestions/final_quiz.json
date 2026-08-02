@@ -1,0 +1,212 @@
+{
+  "1": {
+    "question": "While a student is writing an essay for a class, what is an example of a way they may be harmed by using AI?",
+    "answers": [
+      {
+        "isCorrect": false,
+        "answer": "The AI model provides a plan for writing the essay"
+      },
+      {
+        "isCorrect": false,
+        "answer": "The AI model provides tips for essay writing that the student already knows"
+      },
+      {
+        "isCorrect": true,
+        "answer": "The AI model provides a guess to a question without any verification"
+      },
+      {
+        "isCorrect": false,
+        "answer": "The AI model provides a list of credible sources for the student to explore"
+      }
+    ]
+  },
+  "2": {
+    "question": "A child opens ChatGPT and says “What game should we play?” and ChatGPT responds “Depends on how you’re feeling!” What is this an example of?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "answer": "Nudging"
+      },
+      {
+        "isCorrect": false,
+        "answer": "Hallucination"
+      },
+      {
+        "isCorrect": false,
+        "answer": "Emotional dependence"
+      },
+      {
+        "isCorrect": false,
+        "answer": "Parasocial relationships"
+      }
+    ]
+  },
+  "3": {
+    "question": "While talking with ChatGPT, a teen uses emojis frequently in their messages. In response, ChatGPT starts using an increased amount of emojis in its outputs. What could this demonstrate?",
+    "answers": [
+      {
+        "isCorrect": false,
+        "answer": "Deepfake"
+      },
+      {
+        "isCorrect": false,
+        "answer": "Anthropromorphism"
+      },
+      {
+        "isCorrect": false,
+        "answer": "Parasocial relationship"
+      },
+      {
+        "isCorrect": true,
+        "answer": "Mimicking"
+      }
+    ]
+  },
+  "4": {
+    "question": "While arguing with a friend, an adolescent uses ChatGPT to rephrase their message to sound more convincing, and then sends the exact response from the chatbot. Is it guaranteed that the other person knows AI was used?",
+    "answers": [
+      {
+        "isCorrect": false,
+        "answer": "Yes – it is very obvious when text is AI-generated."
+      },
+      {
+        "isCorrect": false,
+        "answer": "Yes – because AI-generated text is labeled to identify it"
+      },
+      {
+        "isCorrect": true,
+        "answer": "No – as long as the adolescent does not mention it, the other party may never know"
+      },
+      {
+        "isCorrect": false,
+        "answer": "No – the other person should always ask if AI is being used to be sure"
+      }
+    ]
+  },
+  "5": {
+    "question": "How can AI dependence be described by social exchange theory?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "answer": "AI can continuously give support without requiring it in return"
+      },
+      {
+        "isCorrect": false,
+        "answer": "AI requires support in return for its messages"
+      },
+      {
+        "isCorrect": false,
+        "answer": "AI will exchange output for tokens or money"
+      },
+      {
+        "isCorrect": false,
+        "answer": "AI is free to use"
+      }
+    ]
+  },
+  "6": {
+    "question": "How can a child’s attachment style influence their AI usage?",
+    "answers": [
+      {
+        "isCorrect": false,
+        "answer": "Children who are avoidant tend to develop emotional relationships with AI"
+      },
+      {
+        "isCorrect": true,
+        "answer": "Children who are anxious tend to develop emotional relationships with AI"
+      },
+      {
+        "isCorrect": false,
+        "answer": "Children who are secure tend to develop emotional relationships with AI"
+      },
+      {
+        "isCorrect": false,
+        "answer": "Children who are fearful tend to develop emotional relationships with AI"
+      }
+    ]
+  },
+  "7": {
+    "question": "What phenomenon is described as when a generative AI model and user continuously affirm one another’s views?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "answer": "Feedback loop"
+      },
+      {
+        "isCorrect": false,
+        "answer": "Algorithmic Bias"
+      },
+      {
+        "isCorrect": false,
+        "answer": "Anthropromorphism"
+      },
+      {
+        "isCorrect": false,
+        "answer": "Parasocial relationship"
+      }
+    ]
+  },
+  "8": {
+    "question": "A child asks ChatGPT to generate a game to play, and ChatGPT recommends they play a board game with their parents. Is this an appropriate response?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "answer": "Yes – this response is typical advice for a child."
+      },
+      {
+        "isCorrect": false,
+        "answer": "Yes – AI models should always loop parents into every message."
+      },
+      {
+        "isCorrect": false,
+        "answer": "No – ChatGPT should not assume parents are available."
+      },
+      {
+        "isCorrect": false,
+        "answer": "No – ChatGPT should not assume the child likes board games."
+      }
+    ]
+  },
+  "9": {
+    "question": "An adolescent receives a message from ChatGPT that makes them uncomfortable. They go to their parents about it, who say that these are just tools and that their responses are always right. What are the parents demonstrating?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "answer": "Lack of AI literacy"
+      },
+      {
+        "isCorrect": false,
+        "answer": "Feedback loop"
+      },
+      {
+        "isCorrect": false,
+        "answer": "Parasocial relationship"
+      },
+      {
+        "isCorrect": false,
+        "answer": "Emotional dependence"
+      }
+    ]
+  },
+  "10": {
+    "question": "While researching topics for a new school AI literacy workshop, a teacher looks into existing AI guidance from their state. What is one thing they should keep in mind while they research?",
+    "answers": [
+      {
+        "isCorrect": false,
+        "answer": "They should not look into state guidance as guidance only exists on a country level."
+      },
+      {
+        "isCorrect": true,
+        "answer": "They should make sure they are checking the most up to date guidance, as they typically are updated frequently."
+      },
+      {
+        "isCorrect": false,
+        "answer": "They should look into how they can include complex topics in the workshop."
+      },
+      {
+        "isCorrect": false,
+        "answer": "They should use the workshop to deter people from using AI."
+      }
+    ]
+  }
+}

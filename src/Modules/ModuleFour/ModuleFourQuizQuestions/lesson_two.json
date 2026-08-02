@@ -1,0 +1,22 @@
+{
+  "question": "What is an example of a typical age range global organizations recommend people can start using generative AI, while supervised?",
+  "answers": [
+    {
+      "isCorrect": false,
+      "answer": "11-12"
+    },
+    {
+      "isCorrect": true,
+      "answer": "13-14"
+    },
+    {
+      "isCorrect": false,
+      "answer": "15-16"
+    },
+    {
+      "isCorrect": false,
+      "answer": "16-17"
+    }
+  ]
+}
+

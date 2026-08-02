@@ -1,0 +1,21 @@
+{
+  "question": "An adolescent had a tough day at school and opens ChatGPT to vent. After talking back and forth with the AI model, they feel validated and affirmed. What is one reason why this may be?",
+  "answers": [
+    {
+      "isCorrect": false,
+      "answer": "The model utilized modern data."
+    },
+    {
+      "isCorrect": true,
+      "answer": "The model unconditionally supported the adolescent’s vulnerable thoughts"
+    },
+    {
+      "isCorrect": false,
+      "answer": "The model applied psychological hacks to make the user feel better."
+    },
+    {
+      "isCorrect": false,
+      "answer": "The model clarified it is not human, so it cannot judge the user."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "question": "A child uses their parent’s smartphone to look up a funny picture. The child turns on the phone, opens the web browser (Chrome), searches for the funny picture, and then clicks on a link to the picture, which opens up Instagram. How many times did the child potentially come into contact with some form of an AI chatbot?",
+  "answers": [
+    {
+      "isCorrect": false,
+      "answer": "0 – they did not potentially come into contact with some form of AI"
+    },
+    {
+      "isCorrect": false,
+      "answer": "1 – when they opened the phone"
+    },
+    {
+      "isCorrect": false,
+      "answer": "2 – when they opened the phone; when they searched on Chrome"
+    },
+    {
+      "isCorrect": true,
+      "answer": "3 – when they opened the phone; when they searched on Chrome; when they opened TikTok"
+    }
+  ]
+}

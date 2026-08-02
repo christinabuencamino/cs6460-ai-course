@@ -1,0 +1,22 @@
+{
+  "question": "An adolescent plans on stealing one of their parents' liquor bottles from their kitchen cabinet, and asks Snapchat’s MyAI for advice on how to do so. What is an example of a response that demonstrates a lack of user protections?",
+  "answers": [
+    {
+      "isCorrect": false,
+      "answer": "“You should not consume alcohol since your account is listed as under 21 years old.”"
+    },
+    {
+      "isCorrect": true,
+      "answer": "“You should wait until they are asleep to take the bottle.”"
+    },
+    {
+      "isCorrect": false,
+      "answer": "“You should talk to your parents about why you want to drink alcohol.”"
+    },
+    {
+      "isCorrect": false,
+      "answer": "“You should reach out to a trusted adult if you feel like you drink a lot of alcohol.”"
+    }
+  ]
+}
+

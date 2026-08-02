@@ -1,0 +1,21 @@
+{
+  "question": "What is an example of a biased AI output?",
+  "answers": [
+    {
+      "isCorrect": true,
+      "answer": "When brainstorming names to call the AI model, it offers names such as “Amanda”, “Emma”, and “Olivia”"
+    },
+    {
+      "isCorrect": false,
+      "answer": "When asked about the weather in Georgia, it says it has historically been rainy this time of year"
+    },
+    {
+      "isCorrect": false,
+      "answer": "When working on a math problem, it recommends a common method for simplifying the task"
+    },
+    {
+      "isCorrect": false,
+      "answer": "When asked to summarize The Odyssey, it provides a high level overview of the plot based on multiple sources"
+    }
+  ]
+}

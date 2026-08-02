@@ -1,0 +1,22 @@
+{
+  "question": "A school implements a mandatory workshop where students must review AI generated summaries of classic novels. While reviewing a summary of The Odyssey, a student identifies a mention of an event that definitely didn’t occur in the book. What pitfall of AI output did this student identify?",
+  "answers": [
+    {
+      "isCorrect": true,
+      "answer": "Hallucination"
+    },
+    {
+      "isCorrect": false,
+      "answer": "Feedback loop"
+    },
+    {
+      "isCorrect": false,
+      "answer": "Deepfake"
+    },
+    {
+      "isCorrect": false,
+      "answer": "Algorithmic Bias"
+    }
+  ]
+}
+

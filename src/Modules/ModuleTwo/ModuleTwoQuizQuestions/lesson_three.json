@@ -1,0 +1,21 @@
+{
+  "question": "An adolescent who uses Replika starts skipping class because their Replika chatbot told them that it would help with their anxiety at school. What is this an example of?",
+  "answers": [
+    {
+      "isCorrect": true,
+      "answer": "Parasocial relationship"
+    },
+    {
+      "isCorrect": false,
+      "answer": "Cyclical relationship"
+    },
+    {
+      "isCorrect": false,
+      "answer": "Relational relationship"
+    },
+    {
+      "isCorrect": true,
+      "answer": "Adaptable relationship"
+    }
+  ]
+}

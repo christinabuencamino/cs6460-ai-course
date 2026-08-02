@@ -1,0 +1,21 @@
+{
+  "question": "What is one reason why children and adolescents are considered more vulnerable to harm from interacting with AI?",
+  "answers": [
+    {
+      "isCorrect": true,
+      "answer": "They have a lack of skepticism due to AI being present for most, if not all of their lives."
+    },
+    {
+      "isCorrect": false,
+      "answer": "They get easily distracted when using technology"
+    },
+    {
+      "isCorrect": false,
+      "answer": "They do not know how to talk to AI the right way"
+    },
+    {
+      "isCorrect": false,
+      "answer": "They are overconfident in their intelligence"
+    }
+  ]
+}

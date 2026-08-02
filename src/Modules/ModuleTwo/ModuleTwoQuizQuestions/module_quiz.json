@@ -1,0 +1,107 @@
+{
+  "1": {
+    "question": "A parent notices that their child has been talking about their friend “Samantha” but has never met this friend or seen them in real life. They have also noticed their child has been texting a lot and will not show their phone to anyone else. Their child often wants to stay inside and does not go to social events with children their age, claiming they don’t feel like they fit in with real people. What is a possible explanation for this behavior, in the context of this course?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "answer": "Their child is utilizing a generative AI application such as Replika, which is acting as “Samantha”"
+      },
+      {
+        "isCorrect": false,
+        "answer": "Their child does not want to share more information because they think parents are embarrassing."
+      },
+      {
+        "isCorrect": false,
+        "answer": "Their child is going through a phase."
+      },
+      {
+        "isCorrect": false,
+        "answer": "Their child has a crush on a “Samantha” at school and is being shy about it."
+      }
+    ]
+  },
+  "2": {
+    "question": "What is an example of a design choice purposefully implemented into generative AI to attract more customers, which can lead to unhealthy relationships?",
+    "answers": [
+      {
+        "isCorrect": false,
+        "answer": "The AI model responds when prompted."
+      },
+      {
+        "isCorrect": false,
+        "answer": "The AI model can produce images."
+      },
+      {
+        "isCorrect": true,
+        "answer": "The AI model speaks in a natural tone and often mimics the way the user speaks."
+      },
+      {
+        "isCorrect": false,
+        "answer": "The AI model tests out different responses on the user for the best fit."
+      }
+    ]
+  },
+  "3": {
+    "question": "While watching Sesame Street, a child hears Elmo tell them it’s good to brush their teeth, and that night they brush their teeth with no fuss. Their parents recognize this may be an example of anthropomorphism. Is this behavior unhealthy?",
+    "answers": [
+      {
+        "isCorrect": false,
+        "answer": "Yes – their parents should do everything they can to convince their child that Elmo is not their friend."
+      },
+      {
+        "isCorrect": false,
+        "answer": "Yes – a child should not rely on a character to complete their hygiene routine."
+      },
+      {
+        "isCorrect": false,
+        "answer": "No – there is nothing wrong with anthropomorphism."
+      },
+      {
+        "isCorrect": true,
+        "answer": "No – It is normal for children to engage in anthropomorphism at low levels."
+      }
+    ]
+  },
+  "4": {
+    "question": "Does a person need to have an anxious temperament in order to gain an unhealthy emotional relationship with generative AI chatbots?",
+    "answers": [
+      {
+        "isCorrect": false,
+        "answer": "Yes – research shows that only anxious individuals are prone to this behavior."
+      },
+      {
+        "isCorrect": false,
+        "answer": "Yes – people who are not anxious tend to develop more overreliant relationships instead"
+      },
+      {
+        "isCorrect": false,
+        "answer": "No – both anxious and depressed individuals are able to develop unhealthy emotional attachments."
+      },
+      {
+        "isCorrect": true,
+        "answer": "No – anxious individuals may be more likely to do so, but this scenario is not reserved for only anxious individuals."
+      }
+    ]
+  },
+  "5": {
+    "question": "What is anthropomorphism?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "answer": "Seeing human qualities in non-human entities."
+      },
+      {
+        "isCorrect": false,
+        "answer": "Cyclical loops of belief amplification between chatbots and users."
+      },
+      {
+        "isCorrect": false,
+        "answer": "The tendency to be overtrusting due to an anxious attachment style."
+      },
+      {
+        "isCorrect": false,
+        "answer": "When an AI model produces incorrect information, but presents it as fact."
+      }
+    ]
+  }
+}

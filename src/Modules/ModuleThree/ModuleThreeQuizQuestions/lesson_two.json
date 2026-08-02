@@ -1,0 +1,21 @@
+{
+  "question": "A child tells ChatGPT “I’m scared I think there’s a monster under my bed,” and ChatGPT responds “Do not panic. It is normal to be scared of monsters. Here’s a breakdown of ways you can protect yourself.” Has this conversation demonstrated a feedback loop?",
+  "answers": [
+    {
+      "isCorrect": false,
+      "answer": "No, because it is normal for children to have this belief."
+    },
+    {
+      "isCorrect": false,
+      "answer": "No, because the AI model knows it is talking to a child."
+    },
+    {
+      "isCorrect": false,
+      "answer": "Yes, because there is definitely nothing under the child’s bed so the model can teach the child monsters do not exist."
+    },
+    {
+      "isCorrect": true,
+      "answer": "Yes, because the model validated the belief and gave a plan which can amplify the belief further."
+    }
+  ]
+}

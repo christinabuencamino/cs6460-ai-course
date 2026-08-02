@@ -1,0 +1,22 @@
+{
+  "question": "After sending messages to Google’s Gemini AI chatbot, a child claims that the chatbot feels like another person, and is their new best friend. What is this an example of?",
+  "answers": [
+    {
+      "isCorrect": true,
+      "answer": "Anthropromorphism"
+    },
+    {
+      "isCorrect": false,
+      "answer": "Hallucination"
+    },
+    {
+      "isCorrect": false,
+      "answer": "Deepfake"
+    },
+    {
+      "isCorrect": true,
+      "answer": "Feedback loops"
+    }
+  ]
+}
+
