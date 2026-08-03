@@ -1,3 +1,6 @@
+# Course Website
+https://christinabuencamino.github.io/cs6460-ai-course/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
